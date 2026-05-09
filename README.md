@@ -18,6 +18,6 @@ I bridge the gap between creative storytelling and professional branding. My wor
 ## 📬 Get in Touch
 I am currently open for freelance projects and commissions.
 *   **Location:** Amravati, Maharashtra
-*   **WhatsApp:** <img width="90" height="160" alt="WhatsApp Image 2026-05-09 at 9 17 07 PM" src="https://github.com/user-attachments/assets/c344444c-a3d2-4099-bb36-69bce0c36ac5" />
+*   **WhatsApp:** <img width="200" height="360" alt="WhatsApp Image 2026-05-09 at 9 17 07 PM" src="https://github.com/user-attachments/assets/c344444c-a3d2-4099-bb36-69bce0c36ac5" />
 
 *   **Portfolio Live at:** [Your GitHub Pages URL Here]
