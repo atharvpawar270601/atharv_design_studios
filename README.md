@@ -1,2 +1,22 @@
-# atharv_design_studios
-🎨 Professional Design Portfolio | Canva Expert | Showcasing Corporate Branding, Social Media Kit, and Hospitality Designs | Based in Amravati, MH
+# 🎨 Creative Design Portfolio
+
+Welcome to my professional design showcase! I am a **Graphic Designer** specializing in high-impact visuals created using Canva. This repository hosts my personal portfolio website, featuring a wide range of projects from corporate identity to digital marketing.
+
+## 🚀 What I Do
+I bridge the gap between creative storytelling and professional branding. My work includes:
+
+*   **Corporate Branding:** Letterheads, Visiting Cards, and Professional Marksheets.
+*   **Social Media Kit:** High-CTR YouTube Thumbnails and Instagram Posts.
+*   **Hospitality Design:** Modern Hotel & Restaurant Menus.
+*   **Event Graphics:** Invitation Cards and Banners (Specialist in local event branding like *Kavya Sandhya*).
+
+## 🛠️ Tech & Tools
+*   **Design:** Canva (Pro User)
+*   **Web:** HTML5, CSS3 (Responsive Design)
+*   **Deployment:** GitHub Pages
+
+## 📬 Get in Touch
+I am currently open for freelance projects and commissions.
+*   **Location:** Amravati, Maharashtra
+*   **WhatsApp:** [Your Link Here]
+*   **Portfolio Live at:** [Your GitHub Pages URL Here]
